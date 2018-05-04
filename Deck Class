@@ -1,3 +1,9 @@
+
+class card{
+    string suit;
+    int rank;
+}
+
 public class Deck {
     public static void main(String[] args) {
         String[] suits = {"Hearts", "Diamonds", "Spades", "Clubs"};
